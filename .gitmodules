@@ -7,7 +7,7 @@
 	url = https://github.com/cran/deform
 [submodule "evgam"]
 	path = evgam
-	url = https://github.com/cran/evgam
+	url = https://github.com/byoungman/evgam
 [submodule "ppgam"]
 	path = ppgam
 	url = https://github.com/cran/ppgam
