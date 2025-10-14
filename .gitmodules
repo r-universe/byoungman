@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "deform"]
 	path = deform
-	url = https://github.com/cran/deform
+	url = https://github.com/byoungman/deform
 [submodule "evgam"]
 	path = evgam
 	url = https://github.com/byoungman/evgam
