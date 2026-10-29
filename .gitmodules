@@ -8,6 +8,9 @@
 [submodule "evgam"]
 	path = evgam
 	url = https://github.com/byoungman/evgam
+[submodule "evgmrf"]
+	path = evgmrf
+	url = https://github.com/byoungman/evgmrf
 [submodule "ppgam"]
 	path = ppgam
 	url = https://github.com/byoungman/ppgam
